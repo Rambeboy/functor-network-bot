@@ -62,7 +62,7 @@ npm run start
 
 The bot will:
 
-- Load accounts from data.txt
+- Load accounts from config.js
 - Process each account and its tokens
 - Perform daily check-ins
 - Show token expiration dates
