@@ -23,9 +23,11 @@ An automation bot for Functor Network daily check-ins and managing multiple acco
 
 1. Install the [Functor Network](https://chromewebstore.google.com/detail/functor-node/gahmmgacnfeohncipkjfjfbdlpbfkfhi) from Chrome Web Store.
 
-2. Register on [Functor Network](https://node.securitylabs.xyz/?from=extension&type=signin).
+2. Register on [Functor Network](https://node.securitylabs.xyz/?from=extension&type=signin&referralCode=cm4cxlouiml44ph1b43wx2axs).
 
-3. Clone this repository:
+- Use invitation code : `cm4cxlouiml44ph1b43wx2axs`
+
+4. Clone this repository:
 
 ```bash
 git clone https://github.com/Rambeboy/functor-network-bot.git && cd functor-network-bot
